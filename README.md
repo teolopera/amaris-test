@@ -16,9 +16,13 @@
     - La aplicación web quedara expuesta en el puerto 5173 -> `http://localhost:8000/` En caso de tener el puerto ocupado la consola dira el puerto a utilizar
     - El frontend esta compuesto por las siguientes pantallas:
         - Login
-        - <img width="600" alt="image" src="https://github.com/teolopera/amaris-new/assets/57055764/e8c7d69c-9ef5-4cc9-bb26-56b687558f41">
+        - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/41263a71-afd7-4195-bb68-b2a47b49de61">
         - Register
-        - <img width="600" alt="Screenshot 2023-06-08 at 3 12 59 PM" src="https://github.com/teolopera/amaris/assets/57055764/f35dc4e6-f0dc-434a-87a9-1d72c5567554">
-        - <img width="600" alt="Screenshot 2023-06-08 at 3 13 57 PM" src="https://github.com/teolopera/amaris/assets/57055764/5a741f12-f849-4c50-af12-b8fcfa347925">
+        - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/0825f797-5cd3-4e26-947a-f6ad2d9aa224">
+        - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/577c4537-4fcd-448c-ae2c-aafed86e3626">
         - User
-        - <img width="600" alt="Screenshot 2023-06-08 at 3 31 32 PM" src="https://github.com/teolopera/amaris/assets/57055764/a10f83e7-176c-4aa2-8602-4c4b34f3baf6">
+        - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/16060cbe-50b7-47c7-91f5-215c2861dfa7">
+        - Or without user
+        - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/e0a2d036-6fb5-4c6b-994d-212edca9ce06">
+
+
