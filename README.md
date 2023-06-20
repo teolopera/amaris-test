@@ -1,5 +1,6 @@
 # Amaris
 ## Backend
+- Para la persistencia de datos elegí Mongodb debido a un error en la facturación con Amazon, por lo que no fue posible utilizar Dynamo.
 - Instrucciones de uso e instalación
     - Ingresar a la carpeta amaris-back
     - Correr el comando en consola -> `npm install` o `pnpm install` (Solo si se tiene instalado pnpm)
