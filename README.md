@@ -1,4 +1,8 @@
 # Amaris
+## Stack de tecnologias
+- Nest JS / Backend
+- React / Frontend
+- MongoDB
 ## Backend
 - Para la persistencia de datos elegí Mongodb debido a un error en la facturación con Amazon, por lo que no fue posible utilizar Dynamo.
 - Instrucciones de uso e instalación
