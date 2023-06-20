@@ -18,7 +18,7 @@
     - Ingresar a la carpeta amaris-front
     - Correr el comando en consola -> `npm install` o `pnpm install`
     - Correr el comando en consola -> `npm run dev` o `pnpm run dev`
-    - La aplicación web quedara expuesta en el puerto 5173 -> `http://localhost:8000/` En caso de tener el puerto ocupado la consola dira el puerto a utilizar
+    - La aplicación web quedara expuesta en el puerto 8000 -> `http://localhost:8000/` En caso de tener el puerto ocupado la consola dira el puerto a utilizar
     - El frontend esta compuesto por las siguientes pantallas:
         - Login
         - <img width="700" alt="image" src="https://github.com/teolopera/amaris-test/assets/57055764/41263a71-afd7-4195-bb68-b2a47b49de61">
